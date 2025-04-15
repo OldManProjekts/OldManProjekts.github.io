@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jrdominic@proton.me"}
   - {title: Github, icon: github, url: "https://github.com/OldManProjekts"}
-  - {title: OMProjekts, icon: rss, url: "OMProjekts.us"}
+  - {title: OMProjekts, icon: window-maximize, url: "OMProjekts.us"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
